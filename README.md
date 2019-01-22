@@ -1,0 +1,2 @@
+# NumeryczneSprawozdania
+Metody Numeryczne - Sprawozdania
